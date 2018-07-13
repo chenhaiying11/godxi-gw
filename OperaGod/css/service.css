@@ -1,0 +1,26 @@
+body{
+	width: 100%;
+	height: 100%;
+	background-color: gray;
+}
+#box{
+	/*最开始设置的为4.9rem与pwd的模版一致*/
+	width: 7.9rem;
+	margin: 0.5rem auto;
+}
+#box h1{
+	text-align: center;
+	font-size: 24px; 
+	padding-bottom: 20px;
+}
+#box p{
+	text-indent: 2em;
+	letter-spacing:0.5px
+}
+#box h5{
+	text-indent: 2em;
+	font-size: 16px;
+}
+#box .qy,#box .under-age,.strong{
+	text-decoration: underline;
+}
